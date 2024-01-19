@@ -1,2 +1,2 @@
 # pukki-demo
-this is demo .
+This is demo for Git & Github.
